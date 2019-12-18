@@ -17,7 +17,8 @@ for line in f:
 
 
 
-bie ta ma gei wo lai zhe tao 
-yao lai jiu lai chun jie tao 
-
-ying y ying ing
+# bie ta ma gei wo lai zhe tao
+# yao lai jiu lai chun jie tao
+#
+# ying y ying ing
+qaq
