@@ -13,3 +13,10 @@ f = open('dict.txt')
 args_list = []
 for line in f:
     result = re.findall(r"(\S+)\s+(.*)", line)
+
+
+
+
+bie ta ma gei wo lai zhe tao 
+yao lai jiu lai chun jie tao 
+
